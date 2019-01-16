@@ -1,0 +1,14 @@
+<flash_project name="soal 2" version="1">
+    <project_file path="./soal 2.fla" filetype="fla" profile="" />
+    <project_file path="./.\TQBase.as" filetype="as" />
+    <project_file path="./.\TQClickZone.as" filetype="as" />
+    <project_file path="./.\TQOrderdd.as" filetype="as" />
+    <project_file path="./.\TQLanguage.as" filetype="as" />
+    <project_file path="./.\TQDesign.as" filetype="as" />
+    <project_file path="./.\TQFont.as" filetype="as" />
+    <project_file path="./.\TQBackground.as" filetype="as" />
+    <project_file path="./.\TQMatchdd.as" filetype="as" />
+    <project_file path="./.\TQEdit.as" filetype="as" />
+    <project_file path="./.\TQFinish.as" filetype="as" />
+    <project_file path="./.\TQOptions.as" filetype="as" />
+</flash_project>
